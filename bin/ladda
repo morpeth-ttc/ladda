@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+APP_ROOT = File.expand_path("..", __dir__)
+
+require_relative '../lib/ladda'
+@ladda = Ladda.new(File.join(APP_ROOT, 'data.json'))
+
+case ARGV[0]
+when 'd'
+  @ladda.dump_db
+when 'e'
+  @ladda.export_webpage
+when 'i'
+  puts "this will overwrite the db with a blank one, are you sure? (y/N)\n"
+  confirm = STDIN.gets.chomp
+  if confirm.downcase == 'y'
+    @ladda.init_db
+  else
+    puts 'aborted'
+  end
+when 'p'
+  @ladda.add_player(ARGV[1])
+when 'm'
+  @ladda.add_match(*ARGV[1..2])
+when 'h'
+  print File.read("#{APP_ROOT}/doc/help.txt")
+else
+  STDERR.puts "unrecognised command #{ARGV[0]}, h for help"
+end
