@@ -1,0 +1,45 @@
+#!/usr/bin/env node
+
+import { program } from 'commander';
+import { Ladda } from './src/ladda.js';
+
+let ladda = new Ladda('data.json');
+
+program
+  .name('ladda')
+  .description('simple ladder tournament generator');
+
+program.command('d')
+  .description('dump db on to screen')
+  .action(() => {
+    ladda.dumpDb();
+  });
+
+program.command('e')
+  .description('export page to public/')
+  .action(() => {
+    ladda.exportWebpage();
+  });
+
+program.command('i')
+  .description('wipe and reinitialize the db')
+  .action(() => {
+    ladda.initDb();
+  });
+
+program.command('p')
+  .description('add a player')
+  .argument('<string>', 'player name')
+  .action((new_name, options) => {
+    ladda.addPlayer(new_name);
+  });
+
+program.command('m')
+  .description('add a match')
+  .argument('<string>', 'winner name')
+  .argument('<string>', 'loser name')
+  .action((winner, loser, options) => {
+    ladda.addMatch(winner, loser);
+  });
+
+program.parse();
