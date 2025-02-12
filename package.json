@@ -1,6 +1,20 @@
 {
+  "name": "morpeth-ttc-ranking",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.1.0"
+  },
   "dependencies": {
     "commander": "^13.1.0",
-    "hamljs": "^0.6.2"
+    "hamljs": "^0.6.2",
+    "@tailwindcss/vite": "^4.0.6",
+    "tailwindcss": "^4.0.6"
   }
 }

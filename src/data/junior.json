@@ -1,0 +1,1046 @@
+{
+    "ranking": [
+        "Swadloon",
+        "Pikachu",
+        "Mienshao",
+        "Eevee",
+        "Kilowattrel",
+        "Gigantamax",
+        "Charizard",
+        "Marshadow",
+        "Surskit",
+        "Pansear",
+        "Geodude",
+        "Kricketot",
+        "Ferrothorn"
+    ],
+    "history": {
+        "Surskit": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kricketot",
+                false
+            ]
+        ],
+        "Kricketot": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                true
+            ]
+        ],
+        "Swadloon": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Eevee",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Eevee",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                false
+            ]
+        ],
+        "Kilowattrel": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Ferrothorn",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                true
+            ]
+        ],
+        "Marshadow": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kricketot",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Ferrothorn",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Ferrothorn",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Ferrothorn",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Eevee",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ]
+        ],
+        "Geodude": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kricketot",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Eevee",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kricketot",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kricketot",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ]
+        ],
+        "Mienshao": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Eevee",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                false
+            ]
+        ],
+        "Gigantamax": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Eevee",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Ferrothorn",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kricketot",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                true
+            ]
+        ],
+        "Ferrothorn": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Eevee",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                true
+            ]
+        ],
+        "Eevee": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Ferrothorn",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                false
+            ]
+        ],
+        "Charizard": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Ferrothorn",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ]
+        ],
+        "Pikachu": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Eevee",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kricketot",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Eevee",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pansear",
+                false
+            ]
+        ],
+        "Pansear": [
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Eevee",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Mienshao",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Geodude",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Gigantamax",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Swadloon",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Kilowattrel",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Surskit",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Pikachu",
+                true
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Charizard",
+                false
+            ],
+            [
+                "2025-02-11 14:10:15 UTC",
+                "Marshadow",
+                true
+            ]
+        ]
+    },
+    "updated": "2025-02-11 14:10:15 UTC"
+}
