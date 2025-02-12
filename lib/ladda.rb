@@ -1,5 +1,6 @@
 require 'json'
 require 'haml'
+require 'time'
 require 'debug'
   
 class Ladda
@@ -8,7 +9,7 @@ class Ladda
   def initialize(db)
     @db_path = db
     @db = JSON.parse(File.read(@db_path)) rescue nil
-    @now = Time.now.utc
+    @now = Time.now.utc.iso8601
   end
   
   def dump_db
