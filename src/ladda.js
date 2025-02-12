@@ -1,5 +1,4 @@
 import fs from 'fs';
-import path from 'path';
 
 export class Ladda {
   static BLANK_DB = { ranking: [], history: {} };
@@ -17,6 +16,7 @@ export class Ladda {
   initDb() {
     this.db = { ...Ladda.BLANK_DB };
     this.#writeDb();
+    console.log(`db reset`);
   }
 
   addPlayer(name) {
@@ -26,6 +26,7 @@ export class Ladda {
     this.db.ranking.push(name);
     this.db.history[name] = [];
     this.#writeDb();
+    console.log(`player "${name}" added`);
   }
 
   addMatch(winner, loser) {
@@ -48,6 +49,7 @@ export class Ladda {
     }
     
     this.#writeDb();
+    console.log(`match "${winner}"v"${loser}" added`);
   }
 
   #loadDb() {

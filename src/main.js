@@ -1,6 +1,6 @@
 import './style.css'
 import { populateTable } from "./ranking/ranking.js";
-import data from './data/junior.json'
+import data from '../data/junior.json'
 
 document.querySelector('#app').innerHTML = `
   <div>
