@@ -9,11 +9,16 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.3.4",
     "vite": "^6.1.0"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.6",
     "commander": "^13.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "tailwindcss": "^4.0.6"
   },
   "bin": {
