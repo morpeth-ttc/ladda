@@ -1,8 +1,8 @@
-function Match({match}) {
-  let details = match[2] ? ['ladda-win', 'W'] : ['ladda-loss', 'L'];
-  let default_class = 'inline-block align-middle';
+function Match({match, i}) {
+  let details = match[2] ? ['ladda-win bg-blue-950', 'W'] : ['ladda-loss', 'L'];
+  let default_class = 'inline-block align-baseline size-[1.5em] text-center hover:cursor-help';
   return (
-    <span title={`${match[1]} - ${match[0]}`} class={`${default_class} ${details[0]}`}>{details[1]}</span>
+    <span title={`${match[1]} - ${match[0].slice(0,10)}`} className={`${default_class} ${details[0]}`}>{details[1]}</span>
   );
 }
 
@@ -12,9 +12,9 @@ function PlayerForm({history}) {
   if (history.length == 0)
     return '';
 
-  history.slice(0,5).forEach((match) => {
+  history.slice(0,5).forEach((match, i) => {
     matches.push(
-      <Match match={match} />
+      <Match match={match} key={i} />
     );
   });
   
@@ -22,7 +22,7 @@ function PlayerForm({history}) {
 }
 
 function Player({rank, name, history}) {
-  const lastMatchDate = history.length > 0 ? history[0][0] : "No matches";
+  const lastMatchDate = history.length > 0 ? history[0][0].slice(0,10) : "No matches";
   return (
     <tr>
       <td>{rank}</td>
@@ -40,7 +40,7 @@ function Rows({data}) {
   
   data.ranking.forEach((player, index) => {
     rows.push(
-      <Player rank={index + 1} name={player} history={data.history[player]} />
+      <Player key={index} rank={index + 1} name={player} history={data.history[player]} />
     );
   });
   
@@ -49,8 +49,21 @@ function Rows({data}) {
   );
 }
 
-export default function Ranking({data}) {
+function Header({text, updated}) {
   return (
+    <>
+    <h2 className="text-3xl font-bold underline m-10">
+      {text}
+    </h2>
+    <p className="text-left">Last updated: {updated}</p>
+    </>
+  )
+}
+
+export default function Ranking({ladderName, data}) {
+  return (
+    <>
+    <Header text={ladderName} updated={data.updated} />
     <table id="ranking_table">
       <thead>
         <tr>
@@ -62,5 +75,6 @@ export default function Ranking({data}) {
       </thead>
       <Rows data={data} />
     </table>
+    </>
   );
 };

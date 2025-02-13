@@ -2,6 +2,10 @@ import fs from 'fs';
 
 export class Ladda {
   static BLANK_DB = { ranking: [], history: {} };
+  
+  static dbList() {
+    return fs.readdirSync('../data/');
+  }
 
   constructor(dbPath) {
     this.dbPath = dbPath;
